@@ -1,0 +1,8 @@
+Designator,Part
+U1,Pro Micro
+LED 1-8,SK6812-Mini-E
+OL1,"0.91"" OLED"
+SW1,Alps EC11
+R1 R2,10k THT Resistor
+R3,330R THT Resistor
+MX1-9,MX/Alps Switches
