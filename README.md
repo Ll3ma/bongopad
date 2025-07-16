@@ -4,7 +4,8 @@ Bongopad Macropad Files\
 
 # Production Files
 [PCB and BOM files](/PCB/)\
-[Case and Plate files](/3D%20Files/)
+[Case and Plate files](/3D%20Files/)\
+[Firmware File](/Firmware/bongopad_vial.hex)
 
 # Help
 If you have any problems dont hesitate to email or message me on discord!
