@@ -3,7 +3,7 @@ Bongopad Macropad Files
 3x3 Macropad with OLED and rotary encoder support.
 
 # Production Files
-[PCB and BOM files](/PCB/)
+[PCB and BOM files](/PCB/)\
 [Case and Plate files](/3D%20Files/)
 
 # Help
